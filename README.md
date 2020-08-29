@@ -1,6 +1,6 @@
 # food_ordering
 
-A new Flutter project.
+A food-ordering app written in Flutter.
 
 ## Getting Started
 
